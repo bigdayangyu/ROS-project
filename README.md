@@ -1,7 +1,7 @@
 # ROS-project
 ROS project 
 Lab topics:
-lab1:
+#lab1: ROS publishier and subscriber in python
 lab2:
 lab3:
 lab4:
