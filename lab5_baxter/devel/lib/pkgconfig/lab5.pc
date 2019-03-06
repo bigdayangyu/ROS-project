@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa16/class/ee106a-aai/ros_workspaces/lab5_baxter/devel
+
+Name: lab5
+Description: Description of lab5
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cc/ee106a/fa16/class/ee106a-aai/ros_workspaces/lab5_baxter/devel/lib 
+Requires: 
